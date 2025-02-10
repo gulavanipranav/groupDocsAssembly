@@ -1,0 +1,115 @@
+{
+  "node": {
+  "ideaPortfolio": "New Protein Cupcake",
+  "project": {
+    "name": "Innovation Project",
+    "description": [
+      "5 Stages (before each gate)",
+      "Forget reviews - You can just number them 1, 2, 3, etc.",
+      "Multiple task owners, not groups.",
+      "Generator timeline template.",
+      "20-gram protein claim (claims should follow a secure workflow).",
+      "After each gate, use a template/form to ask team members: What worked well? What could have been improved?"
+    ]
+  },
+  "tasks": [
+    {
+      "name": "Research and Learning Plan"
+    },
+    {
+      "name": "Idea Submission"
+    },
+    {
+      "gate": "Gate 1",
+      "subtasks": [
+        {
+          "name": "Concept Development",
+          "description": "Define the product concept."
+        },
+        {
+          "name": "Product Solution",
+          "description": "Identify solutions to meet product goals."
+        },
+        {
+          "name": "Protocepting",
+          "description": "Create initial prototypes for testing."
+        },
+        {
+          "name": "Financial Objectives Setting",
+          "description": "Set financial targets."
+        }
+      ]
+    },
+    {
+      "gate": "Gate 2",
+      "subtasks": [
+        {
+          "name": "Artwork Design and Research",
+          "description": "Creative team to develop artwork concepts and studies."
+        },
+        {
+          "name": "Claims Review",
+          "description": "Regulatory team to review claims, including the 20-gram protein claim."
+        },
+        {
+          "name": "Prototype Development",
+          "description": "Build advanced prototypes."
+        },
+        {
+          "name": "New Ingredient Request",
+          "description": "Handle requests for new ingredients."
+        },
+        {
+          "name": "Consumer Research",
+          "description": "Conduct research to understand consumer preferences."
+        },
+        {
+          "name": "Financial Analysis",
+          "description": "Perform cost and revenue projections."
+        }
+      ]
+    },
+    {
+      "gate": "Gate 3",
+      "subtasks": [
+        {
+          "name": "Plant Trial",
+          "description": "Conduct trials in production facilities."
+        },
+        {
+          "name": "Trial Analysis",
+          "description": "Evaluate trial results and refine the product."
+        },
+        {
+          "name": "Item Data Request",
+          "description": "Automate item generation through data entry forms."
+        },
+        {
+          "name": "Dialine",
+          "description": "Perform technical adjustments and refinements."
+        },
+        {
+          "name": "Formula",
+          "description": "Finalize the product formula."
+        },
+        {
+          "name": "Nutrition",
+          "description": "Verify nutritional claims and data."
+        },
+        {
+          "name": "Pallet Information",
+          "description": "Define logistics and pallet details."
+        },
+        {
+          "name": "Data Release",
+          "description": "Ensure all required data is shared and approved."
+        },
+        {
+          "name": "Artwork Upload",
+          "description": "Automate third-party artwork uploads."
+        }
+      ]
+    }
+  ]
+}
+}
