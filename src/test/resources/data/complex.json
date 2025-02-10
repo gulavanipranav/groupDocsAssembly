@@ -1,5 +1,6 @@
 {
   "node": {
+    "active": true,
     "empty": "",
     "nullValue": null,
     "number": 10,
@@ -11,8 +12,16 @@
       {"valNumber":12,"valString": "xy"},
       {"valNumber":15,"valString": "y"},
       {"valNumber":1,"valString": "yz"},
+      {"valNumber":20,"valString": "z"},
+      {"valNumber":20,"valString": "z"},
+      {"valNumber":20,"valString": "z"},
+      {"valNumber":20,"valString": "z"},
+      {"valNumber":20,"valString": "z"},
+      {"valNumber":20,"valString": "z"},
+      {"valNumber":20,"valString": "z"},
+      {"valNumber":20,"valString": "z"},
+      {"valNumber":20,"valString": "z"},
       {"valNumber":20,"valString": "z"}
-
     ],
     "nestedArray": [
       {"valNumber":12,"valString": "xy","nestArr": [{"val": 1,"some": "some-x"}]},

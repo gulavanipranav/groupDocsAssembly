@@ -30,9 +30,9 @@ class GroupdocApplicationTests {
 		License lic = new License();
 		lic.setLicense("GroupDocs.AssemblyforJava.lic");
 
-		String fileInputPath="src/test/resources/templates/PresentationUseCaseGD.pptx";
-		String fileOutputPath="src/test/resources/output/PresentationGD_out.pptx";
-		String dataSource="src/test/resources/data/PresentationUseCase.json" ;
+		String fileInputPath="src/test/resources/templates/GD_datatypes.pptx";
+		String fileOutputPath="src/test/resources/output/GD_datatypes.pptx_out.pptx";
+		String dataSource="src/test/resources/data/complex.json" ;
 
 		JsonDataLoadOptions options = new JsonDataLoadOptions();
 		options.setAlwaysGenerateRootObject(true);
